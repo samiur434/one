@@ -1,14 +1,9 @@
 this is my file
 stash files
-<<<<<<< HEAD
 this is done by pinkmode
 this is done by purplemode
-<<<<<<< HEAD
 another one by purplemode
-this is done by mastermode
-=======
-another one by purplemode
->>>>>>> 19c7753 (fixed by mastere)
-=======
-this is done by pinkmode
->>>>>>> 48bc384 (fixed by mastere)
+this is done by purplemode
+this is for github
+add this also for github
+
