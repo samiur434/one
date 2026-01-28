@@ -1,3 +1,6 @@
 this is my file
 stash files
-this is done by master now
+this is done by pinkmode
+this is done by purplemode
+another one by purplemode
+this is done by mastermode
