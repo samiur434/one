@@ -5,3 +5,4 @@ three
 fixed fourth bug
 fixed fifth bug
 fixed sixth bug
+fixed sixth bug
